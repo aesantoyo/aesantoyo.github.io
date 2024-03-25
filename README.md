@@ -1,6 +1,5 @@
 # aesantoyo.github.io
 <nav class="navbar navbar-expand-lg bg-dark" data-bs-theme="dark">
-    </button>
     <div class="collapse navbar-collapse" id="navbarColor02">
       <ul class="navbar-nav me-auto">
         <li class="nav-item">
@@ -15,6 +14,4 @@
         <li class="nav-item">
           <a class="nav-link" href="#">About</a>
         </li>
-    </div>
-  </div>
 </nav>
