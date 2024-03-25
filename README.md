@@ -1,6 +1,6 @@
 # aesantoyo.github.io
 <nav class="navbar navbar-expand-lg bg-dark" data-bs-theme="dark">
-<button type="button" class="btn btn-primary">Home</button>
+<link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.8/css/line.css">
     <div class="collapse navbar-collapse" id="navbarColor02">
       <ul class="navbar-nav me-auto">
         <li class="nav-item">
